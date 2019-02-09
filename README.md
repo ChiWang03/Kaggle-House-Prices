@@ -3,6 +3,11 @@ House Prices: Advanced Regression Techniques
 
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
 
-In this repo I will demonstrate some unsupervised and supervised learning methods to predict house prices 
+This repository will demonstrate multiple methods with in depth detail and interepretation. 
 
+Most of the code will be done with Python and some will be in R 
+
+1. PCA (Dimension reduction) and PCA Regression
+2. Regression methods (MLR) and variable selection with Elastic Net/LASSO/Ridge regression 
+3. ...
 
