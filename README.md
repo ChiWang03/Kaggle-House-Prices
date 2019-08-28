@@ -17,8 +17,7 @@ Through this My results improved and achieved top 9% on the leader board.
 Notebook would be updated shortly since I still have some editing to do. 
 
 
-Most of the code will be done with Python and some will be in R 
-
+Old methods used: 
 1. PCA (Dimension reduction) and PCA Regression
 2. Regression methods (MLR) and variable selection with Elastic Net/LASSO/Ridge regression 
 
