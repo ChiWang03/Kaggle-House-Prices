@@ -7,10 +7,19 @@ This repository will demonstrate multiple methods with in depth detail and inter
 
 I have decided to update my prediction reuslts and work on it further 
 I introduced a better feature engineering and multiple predction methods.
+
+Feature Engineering: 
+
+1. Advanced Outlier Removal 
+2. Multiple Variable Transformation: Logarithm, Box Cox
+3. Fixing of Skewness
+
+Prediction Methods
 1. XGBoost, Elastic Net, LightGBM, LASSO, Kernel Ridge, Gradient Boosting
-2. Advanced Outlier Removal 
-3. Multiple Variable Transformation: Logarithm, Box Cox
-4. Fixing of Skewness
+2. Stacking with mlxtend, using a XGBoost Classification
+3. Tune parameters with GridSearchCV
+
+
 
 Through this My results improved and achieved top 9% on the leader board. 
 
