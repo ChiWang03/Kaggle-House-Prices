@@ -16,7 +16,7 @@ Feature Engineering:
 
 Prediction Methods
 1. XGBoost, Elastic Net, LightGBM, LASSO, Kernel Ridge, Gradient Boosting
-2. Stacking with mlxtend, using a XGBoost Classification
+2. Stacking with mlxtend
 3. Tune parameters with GridSearchCV
 
 
