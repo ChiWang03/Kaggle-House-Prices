@@ -1,6 +1,8 @@
 # Kaggle-House-Prices
 House Prices: Advanced Regression Techniques
 
+[Kaggle Profile and Ranking](https://www.kaggle.com/chiwang0503)
+
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
 
 This repository will demonstrate multiple methods with in depth detail and interepretation. 
