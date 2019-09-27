@@ -10,6 +10,8 @@ I introduced a better feature engineering and multiple predction methods.
 
 Feature Engineering: 
 
+Inspired by: Serigne and Laurenstc's notebook
+
 1. Advanced Outlier Removal 
 2. Multiple Variable Transformation: Logarithm, Box Cox
 3. Fixing of Skewness
